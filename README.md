@@ -1,5 +1,7 @@
 # Fungsi-LogikaMatematika
 
+github pages = https://mdknodua.github.io/Fungsi-LogikaMatematika/
+
 Nama dan Nim
 
 Anita Meliyanti : 2110018
