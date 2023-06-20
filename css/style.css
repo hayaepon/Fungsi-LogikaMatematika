@@ -540,7 +540,7 @@ button {
 /** services section **/
 
 .services .titlepage {
-     text-align: left;
+     text-align: center;
 }
 
 .services {
@@ -555,6 +555,7 @@ button {
      margin-bottom: 30px;
      border-radius: 10px;
      transition: ease-in all 0.5s;
+     
 }
 
 .services .services_box i {
