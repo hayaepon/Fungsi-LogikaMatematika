@@ -3,7 +3,9 @@
 github pages = https://mdknodua.github.io/Fungsi-LogikaMatematika/
 
 Video Animasi Fungsi Menggunakan Manim = "https://www.youtube.com/embed/ZYHfv2oxlKA"
-Nama dan Nim
+
+
+NAMA & NIM
 
 Anita Meliyanti : 2110018
 
